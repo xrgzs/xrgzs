@@ -1,14 +1,20 @@
 ## Hello, SEKAI 👋
 
-- 🔭 I’m currently working on: Windows Debloat Scripts Developing and DevOps.
+🦴 I’m MadDogOwner. 🦴
+
+- 🔭 I’m currently working on: Windows Debloating and DevOps.
 - 🌱 I’m currently learning: InfoSec and DevOps.
 - 👯 I’m looking to collaborate on: [Xiaoran System](https://sys.xrgzs.top/).
 - 🤔 I’m looking for help with: Front-end Engineer, UI Developer, Native Application Developer.
-- 💬 Ask me about: Alist, Windows, Scoop, Docker, Website Hosting.
+- 💬 Ask me about: [AlistGo/alist](https://github.com/AlistGo/alist), Windows, Scoop, Docker, Website Hosting.
 - 📫 How to reach me: GitHub or [Contact US](https://sys.xrgzs.top/overview/contact.html).
 - ⚡ Fun fact: My dog only bites me.
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=terminal,windows,debian,kali,powershell,proxmox,docker,golang,vitepress,vuejs,vite,elementplus,solidjs,typescript,js,html,selenium,python,c,nginx,php,prettier,chrome,edge,onedrive,cloudflare,cloudfront,githubactions,githubpages,vscode)
+### My Skills
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=terminal,windows,debian,kali,powershell,proxmox,docker,golang,vitepress,vuejs,vite,elementplus,solidjs,typescript,js,html,selenium,python,c,nginx,php,prettier,chrome,edge,onedrive,cloudflare,cloudfront,githubpages,vscode,githubactions)
+
+### Stats
 
 <picture>
   <source
@@ -34,4 +40,10 @@
   />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xrgzs&layout=compact&langs_count=8" />
 </picture>
+
+### Sponser
+
+Powered by hate♡
+
+
 
