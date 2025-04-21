@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, SEKAI 👋
 
 - 🔭 I’m currently working on: Windows Debloat Scripts Developing and DevOps.
 - 🌱 I’m currently learning: InfoSec and DevOps.
