@@ -12,7 +12,7 @@
 
 ### My Skills
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=terminal,windows,debian,kali,powershell,proxmox,docker,golang,vitepress,vuejs,vite,elementplus,solidjs,typescript,js,html,selenium,python,c,nginx,php,prettier,chrome,edge,onedrive,cloudflare,cloudfront,githubpages,vscode,githubactions)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,terminal,windows,apple,debian,kali,powershell,proxmox,docker,vitepress,vuejs,vite,elementplus,solidjs,prettier,typescript,js,html,golang,selenium,python,c,nginx,php,chrome,edge,onedrive,cloudflare,githubpages,githubactions)        
 
 ### Stats
 
@@ -44,6 +44,3 @@
 ### Sponser
 
 Powered by hate♡
-
-
-
